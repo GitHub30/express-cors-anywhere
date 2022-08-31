@@ -1,4 +1,4 @@
-# Usage
+### Usage
 
 curl https://corsproxy.deta.dev/https://example.com/
 
@@ -23,7 +23,7 @@ Status code
 
 https://corsproxy.deta.dev/https://httpbin.org/status/404
 
-Debug
+### Debug
 
 ```bash
 git clone https://github.com/GitHub30/express-cors-anywhere
@@ -33,7 +33,8 @@ npm install
 node app.js
 ```
 
-Deploy
+### Deploy
+
 ```bash
 deta deploy
 ```
